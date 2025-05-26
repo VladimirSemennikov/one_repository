@@ -6,3 +6,5 @@ print(a)
 
 b = (5*5)
 print(b)
+
+print('Я добавляю 3 commit!')
